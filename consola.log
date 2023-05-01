@@ -1,0 +1,12 @@
+prompt("Edad?")
+'38'
+let edad = prompt("Edad?")
+undefined
+edad
+'38'
+let num_edad = Number(edad)
+undefined
+num
+VM534:1 Uncaught ReferenceError: num is not defined
+    at <anonymous>:1:1
+(anonymous) @ VM534:1
